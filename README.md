@@ -3,5 +3,5 @@
 I'm Dawid - currently working in [WeNet](https://www.wenetpolska.pl/). Grinding to be better frontend developer. 
 
 How to reach me:
-- [LinkedIn](https://www.linkedin.com/in/dawid-bugajski-1bb01519b/ "Dawid Bugajski | LinkedIn")
+- [LinkedIn](https://www.linkedin.com/in/dawidbugajski96 "Dawid Bugajski | LinkedIn")
 - [dawidbugajski1996@gmail.com](mailto:dawidbugajski1996@gmail.com)
