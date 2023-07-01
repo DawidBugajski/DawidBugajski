@@ -1,6 +1,6 @@
 ### Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px">
 
-I'm Dawid - currently working in [WeNet](https://www.wenetpolska.pl/). Grinding to be better frontend developer. 
+I'm Dawid - currently working in [Emotivo](https://emotivo.pl/) as a frontend developer. 
 
 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/dawidbugajski96 "Dawid Bugajski | LinkedIn")
